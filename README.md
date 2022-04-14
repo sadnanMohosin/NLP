@@ -8,7 +8,8 @@ Topics:
 3. LDA
 4. gensim
 5. machine learning with text data
-6. 
+6. Extracting Sentiment from the Text Data
+7. text blob
    
 
 Resources:
@@ -17,5 +18,3 @@ Resources:
 
 
 
-|   	|    Tweet                                             	| Avg  	|
-|------	|---------------------------------------------------	|------	|
