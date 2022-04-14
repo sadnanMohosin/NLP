@@ -14,3 +14,8 @@ Topics:
 Resources:
 1. Text Analytics with Azure Machine Learning Studio: https://app.pluralsight.com/guides/text-analytics-with-azure-machine-learning-studio
 2. 
+
+
+
+|   	|    Tweet                                             	| Avg  	|
+|------	|---------------------------------------------------	|------	|
