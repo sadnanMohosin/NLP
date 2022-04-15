@@ -12,6 +12,9 @@ Topics:
 7. text blob
 8. text parsin
 9. regrex
+10. Named Entity Recognition (NER)
+11. chunking
+12. Parts of Speech (POS) Tagging
    
 
 Resources:
