@@ -10,6 +10,8 @@ Topics:
 5. machine learning with text data
 6. Extracting Sentiment from the Text Data
 7. text blob
+8. text parsin
+9. regrex
    
 
 Resources:
