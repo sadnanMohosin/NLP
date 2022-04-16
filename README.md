@@ -15,11 +15,11 @@ Topics:
 10. Named Entity Recognition (NER)
 11. chunking
 12. Parts of Speech (POS) Tagging
+13. recommendation system
    
 
 Resources:
 1. Text Analytics with Azure Machine Learning Studio: https://app.pluralsight.com/guides/text-analytics-with-azure-machine-learning-studio
-2. 
 
 
 
